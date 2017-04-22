@@ -65,6 +65,8 @@ export class Hello extends Component {
         <Titulo titulo="otro titulo" texto="segundo contenido"/>
         <Juego/>
         <Juego/>
+        <Juego/>
+        <Juego/>
       </div>
     );
   }
